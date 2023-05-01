@@ -19,7 +19,8 @@ Goal:
 
 
 Technical tasks:
-1. Set up account on CITA machine
-2. Read one uniform-grid snapshot of CROC simulation:
-    
+1. Set up an account on CITA machine
+2. Read one uniform-grid snapshot of CROC simulation, locate the halos in the box:
+    2.1 The file is at /fs/lustre/cita/hqchen/data/z-ifrit-a=0.1401.bin It's a cube with gas neutral fraction, density contrast, temperature. To read (and plot) it, use the scripts in codes/ (read_cube.py or read_and_plot_datacube.ipynb)
+    2.2 The halo catalog is at /fs/lustre/cita/hqchen/data/hlist_0.14005.list
 
