@@ -1,0 +1,16 @@
+Literature: https://ui.adsabs.harvard.edu/user/libraries/SFci28GKRNKEYS1PylVBXw
+
+
+Goal:
+
+1.Understand how the proximity zone features fluctuate with quasar light curve at different timescales
+
+2.For pre-Lyman limit systems (LLSs), what kind of light curve will truncate PZ?
+2.1Go to box F to find sightlines with pre-LLSs
+2.2Characterize the pre-LLSs (NHI, transmitted flux)
+
+
+
+
+Technical tasks:
+1. Set up account on CITA machine
