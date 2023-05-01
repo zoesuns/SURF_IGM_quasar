@@ -1,4 +1,12 @@
 Literature: https://ui.adsabs.harvard.edu/user/libraries/SFci28GKRNKEYS1PylVBXw
+Most relevant:
+Eilers+2017: good to start with, it's a mostly observational paper that inspired many work on proximity zones. One particular interesting things they found is the population of very small proximity zones.
+Davies+2020: explains a lot of physics of the proximity zones, especially the time-dependency
+Chen+2021: explains our simulation and code
+Suggested:
+Bolton+2007: one of the earliest proximity zone modeling paper, which Davies+2020 and Chen+2021' codes are mostly based on.
+Satyavolu+2023: analyzes the proximity zone size distribution with certain duty cycle using sightlines from cosmological sims.
+
 
 
 Goal:
@@ -6,11 +14,12 @@ Goal:
 1.Understand how the proximity zone features fluctuate with quasar light curve at different timescales
 
 2.For pre-Lyman limit systems (LLSs), what kind of light curve will truncate PZ?
-2.1Go to box F to find sightlines with pre-LLSs
-2.2Characterize the pre-LLSs (NHI, transmitted flux)
-
-
+    2.1 Go to box F to find sightlines with pre-LLSs
+    2.2 Characterize the pre-LLSs (NHI, transmitted flux)
 
 
 Technical tasks:
 1. Set up account on CITA machine
+2. Read one uniform-grid snapshot of CROC simulation:
+    
+
