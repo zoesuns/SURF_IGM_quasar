@@ -12,6 +12,8 @@ firstfield=lllen*2+3*ilen
 
 nextfield=firstfield
 
+N=1024
+
 xHI=array.array('f',binarydata[nextfield+lllen:nextfield+lllen+N**3*flen])
 xHI=np.reshape(xHI,(N,N,N),order='F')
 
