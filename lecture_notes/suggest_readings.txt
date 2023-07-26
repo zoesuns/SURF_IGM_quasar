@@ -1,4 +1,0 @@
-Halo mass function:
-Lecture notes from van den Bosch: http://www.astro.yale.edu/vdbosch/astro610_lecture9.pdf
-
-Solving stiff equation: https://edwinchenyj.github.io/scientific%20computing/stiff-python/
